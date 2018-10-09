@@ -1,4 +1,4 @@
-/*Programacion de JavaScript*/
+/*Programacion de JavaScript nueva*/
 
 var piezas = document.getElementsByClassName('movil');
 console.log("piezas",piezas)
