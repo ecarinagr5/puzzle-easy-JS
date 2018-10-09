@@ -1,0 +1,11 @@
+/*Hoja de estilos*/
+#entorno {
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
+
+.crono_wrapper {text-align:center;width:200px;}
